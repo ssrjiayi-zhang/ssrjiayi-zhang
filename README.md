@@ -1,4 +1,4 @@
-# Hi there! I'm Jiayi
+# Hi! I'm Jiayi
 
 I'm an undergraduate student at the **University of Wisconsin–Madison**, with a strong interest in **Data Science, Machine Learning, Applied Statistics, and Quantitative Modeling**.
 
