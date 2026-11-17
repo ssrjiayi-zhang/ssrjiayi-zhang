@@ -4,7 +4,7 @@ I'm an undergraduate student at the **University of Wisconsin–Madison**, with 
 
 ### About Me
 
-- 🔭 I'm currently developing an interactive Markov Chain visualization tool that connects stochastic processes with corporate credit risk modeling.
+- I'm currently developing an interactive Markov Chain visualization tool that connects stochastic processes with corporate credit risk modeling.
 - I'm interested in **interpretable machine learning, statistical modeling, and optimization**.
 - I've worked on projects involving **ptychographic phase retrieval, concept-based model interpretability, and predictive modeling**.
 - I'm currently expanding my knowledge of **financial statistics, database systems, and quantitative methods**.
